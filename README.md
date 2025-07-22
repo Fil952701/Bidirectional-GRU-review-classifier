@@ -27,15 +27,4 @@ The core model consists of:
 - Global Average Pooling + Dense Layers
 - Softmax output over 5 classes
 
-Full architecture and training logs are available in `results/prestazioni_ottime.txt`.
-
----
-
-## 📁 Folder Structure
-
-```text
-gru-review-classifier/
-├── dataset/         # Contains the input dataset (labelled sentences)
-├── src/             # Core and fine-tuning scripts
-├── results/         # Model performance metrics and logs
-└── requirements.txt # Python dependencies
+Full architecture and training logs are available in `results/prestazioni_ottime_RNN_recensioni.txt`.
